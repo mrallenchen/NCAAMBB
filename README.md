@@ -37,7 +37,7 @@ ORtg -- Offensive Rating\
 An estimate of points scored (for teams) or points produced (for players) per 100 possessions.\
 DRtg -- Defensive Rating; an estimate of points allowed per 100 possessions.\
 Pace -- Pace Factor\
-An estimate of school possessions per 40 minutes.\
+An estimate of school possessions per 40 minutes. (FGA – OR) + TO + (Y * FTA) where Y is typically 0.44 (good source here: https://kenpom.com/blog/the-possession/) \
 FTr -- Free Throw Attempt Rate\
 Number of FT Attempts Per FG Attempt\
 3PAr -- 3-Point Attempt Rate\
