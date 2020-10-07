@@ -46,7 +46,7 @@ Data needed to be cleaned before use
     - Beautiful Soup
 
 
-4. Future Work
+## Future Work
 - Cross Validation with various seasons
 - SOS Adjusted Stats
     - Don't need to include a SOS if I can create SOS-adjusted stats that go into the model...
@@ -74,3 +74,7 @@ Data needed to be cleaned before use
 - PCA for understanding like features
 - Distance to Court (proxy for fan support/away games being more difficult)
 - run model again without standardized variables so that coefficients are more interpretable
+
+### Future file cleanup
+- organize the data files
+- add more detail on the analysis
