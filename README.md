@@ -10,7 +10,7 @@ While there are many models out there, I would also like to try to build my own 
 
 1. Data
 Data was collected from basketball-reference.com.
-    - Through webscraping, pulled season gamelogs for each school
+    - Through webscraping, pulled season gamelogs for each school for the years 2014-2019
 
 2. Data cleaning and feature engineering
 Data needed to be cleaned before use
